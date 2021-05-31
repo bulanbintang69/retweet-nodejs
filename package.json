@@ -1,0 +1,15 @@
+{
+  "name": "retweet-bot",
+  "version": "1.0.0",
+  "description": "A Twitter Bot made using NodeJS to retweet some hashtags.",
+  "main": "app.js",
+  "author": "Harry Kanani",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "twit": "^2.2.11"
+  }
+}
